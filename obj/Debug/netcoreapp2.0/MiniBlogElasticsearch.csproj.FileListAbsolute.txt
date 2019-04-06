@@ -1,0 +1,11 @@
+F:\Algorithm & Big data & BI\elasticsearch\MiniBlogElasticsearch\bin\Debug\netcoreapp2.0\MiniBlogElasticsearch.deps.json
+F:\Algorithm & Big data & BI\elasticsearch\MiniBlogElasticsearch\bin\Debug\netcoreapp2.0\MiniBlogElasticsearch.runtimeconfig.json
+F:\Algorithm & Big data & BI\elasticsearch\MiniBlogElasticsearch\bin\Debug\netcoreapp2.0\MiniBlogElasticsearch.runtimeconfig.dev.json
+F:\Algorithm & Big data & BI\elasticsearch\MiniBlogElasticsearch\bin\Debug\netcoreapp2.0\MiniBlogElasticsearch.dll
+F:\Algorithm & Big data & BI\elasticsearch\MiniBlogElasticsearch\bin\Debug\netcoreapp2.0\MiniBlogElasticsearch.pdb
+F:\Algorithm & Big data & BI\elasticsearch\MiniBlogElasticsearch\obj\Debug\netcoreapp2.0\MiniBlogElasticsearch.csproj.CoreCompileInputs.cache
+F:\Algorithm & Big data & BI\elasticsearch\MiniBlogElasticsearch\obj\Debug\netcoreapp2.0\MiniBlogElasticsearch.AssemblyInfoInputs.cache
+F:\Algorithm & Big data & BI\elasticsearch\MiniBlogElasticsearch\obj\Debug\netcoreapp2.0\MiniBlogElasticsearch.AssemblyInfo.cs
+F:\Algorithm & Big data & BI\elasticsearch\MiniBlogElasticsearch\obj\Debug\netcoreapp2.0\MiniBlogElasticsearch.dll
+F:\Algorithm & Big data & BI\elasticsearch\MiniBlogElasticsearch\obj\Debug\netcoreapp2.0\MiniBlogElasticsearch.pdb
+F:\Algorithm & Big data & BI\elasticsearch\MiniBlogElasticsearch\obj\Debug\netcoreapp2.0\MiniBlogElasticsearch.csprojAssemblyReference.cache

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<post>
+  <title>Example ElasticSearch</title>
+  <slug>ZeroTeam</slug>
+  <pubDate>2019-03-03 18:10:46</pubDate>
+  <lastModified>2019-03-03 18:10:46</lastModified>
+  <excerpt>I dont now why me</excerpt>
+  <content>&lt;p&gt;Mostql&lt;/p&gt;</content>
+  <ispublished>true</ispublished>
+  <categories>
+    <category>bigdata</category>
+  </categories>
+  <comments></comments>
+</post>

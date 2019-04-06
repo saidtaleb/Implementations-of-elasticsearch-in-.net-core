@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<post>
+  <title>test</title>
+  <slug>test</slug>
+  <pubDate>2019-03-03 19:13:56</pubDate>
+  <lastModified>2019-03-03 19:14:36</lastModified>
+  <excerpt>test</excerpt>
+  <content>&lt;p&gt;apodkaopkafz fzefze&lt;/p&gt;</content>
+  <ispublished>true</ispublished>
+  <categories>
+    <category>test</category>
+  </categories>
+  <comments>
+    <comment isAdmin="true" id="2e916678-6c99-4c2d-b0be-b68f221105d4">
+      <author>daz</author>
+      <email>daz@zaccom.com</email>
+      <date>2019-03-03 19:14:36</date>
+      <content>dzadaz</content>
+    </comment>
+  </comments>
+</post>
